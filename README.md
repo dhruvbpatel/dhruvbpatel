@@ -1,5 +1,5 @@
 ## Hi there 👋
-#### I'm Dhruv Patel (@dhruvhimself)
+#### <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi, I am Dhruv Patel (@dhruvhimself) 👨‍💻
 
 IBM Big Data Engineer || GoogleAI - ExploreML Facilitator || Microsoft Student Partner || GCI Mentor @TensorFlow
 <!--
@@ -14,5 +14,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [Twitter - @dhruvhimself](https://twitter.com/dhruvhimself) , [LinkedIn - Dhruv Patel](https://www.linkedin.com/in/dhruv-patel-1057/)
 - 😄 Pronouns:He/His
 - ⚡ Fun fact: I can code while gaming !!! 😜
+
+
+## 📫 Get in touch
+- LinkedIn - [Dhruv Patel](https://www.linkedin.com/in/dhruv-patel-1057/)
+- Twitter - [@dhruvhimself](https://twitter.com/dhruvhimself)
+
+
 <!-- - 🤔 I’m looking for help with -->
 
