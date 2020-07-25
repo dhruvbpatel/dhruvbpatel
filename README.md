@@ -34,6 +34,7 @@ Here are some ideas to get you started:
 
 -->
 
-[![Dhruv's github stats](https://github-readme-stats.vercel.app/api?username=dhruvbpatel)](https://github.com/anuraghazra/github-readme-stats)
+[![Dhruv's github stats](https://github-readme-stats.vercel.app/api?username=dhruvbpatel)](https://github.com/dhruvbpatel)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvbpatel)](https://github.com/dhruvbpatel)
 
 ![visits](https://visitor-badge.laobi.icu/badge?page_id=dhruvhimself.visitor-badge)
