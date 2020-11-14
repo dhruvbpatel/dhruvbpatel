@@ -11,7 +11,7 @@ IBM Big Data Engineer || GoogleAI - ExploreML Facilitator || Microsoft Student P
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on Twitter Sentiment Extraction using SPARK
+- 🔭 I’m currently working on Multiclass Text classification using Apache SPARK
 - 🌱 I’m currently learning NLP (NLP specialization on coursera)
 - 👯 I’m looking to collaborate on ML/DL projects
 - 💬 Ask me about Machine Learning or any Tech related Stuff
