@@ -2,7 +2,7 @@
 ## Hi there 👋
 #### <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi, I am Dhruv Patel (@dhruvhimself) 👨‍💻
 
-Grad Student @UTD MS in CS(Data Science)
+Grad Student [@UTD](https://www.utdallas.edu/) MS in CS(Data Science)
 
 
 
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 <!-- - 🔭 I’m currently working on DTH Customer Churn Analysis -->
 <!-- - 🌱 I’m currently learning NLP (NLP specialization on coursera) -->
-- 👯 I’m looking to collaborate on ML/DL projects
+- 👯 I’m looking to collaborate on Full Stack web development and ML projects
 - 💬 Ask me about Machine Learning or any Tech related Stuff
 
 <!-- - 😄 Pronouns: He/His -->
